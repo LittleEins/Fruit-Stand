@@ -13,7 +13,7 @@
 - [x] Fork the Repository
 - [x] Install Pre-requisites such as: Python 3.10(Microsoft/Python Website)
 - [x] Install: Pillow via cmd: "pip install pillow"
-- [x] Open VS Code and Run Python (Make sure that Python Extensions are installed in VSCode)
+- [x] Open VS Code and open 'main.py' and then Run Python (Make sure that Python Extensions are installed in VSCode)
 
 ### Editing values of the Food stands:
   We can edit the values of the food stand by simply locating the csv files. This can be found at: Fruit-Stand\dist\main\src .
